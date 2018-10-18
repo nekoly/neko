@@ -29,3 +29,33 @@ my_neko="apple,pear,orange"
 result=my_neko.split(",")
 print(result)
 
+#判断是否以指定数据开头
+
+my_url="https://github.com/"
+result=my_url.startswith("http")
+print(result)
+
+result=my_url.endswith(".com/")
+print(result)
+
+
+#把字符串以指定字符串分割成为三部分
+
+my_neko = "aaabcccddd"
+result=my_neko.partition("d")
+print(result)
+
+#把根据指定字符串拼接数据，前提是最终的数据是字符串
+
+#指定字符串数据
+
+ouki_ly="-"
+my_neko="wuteokvmkbnouwerp"
+result=ouki_ly.join(my_neko)
+print(result)
+
+my_neko=("5","e","j")
+result=ouki_ly.join(my_neko)
+print(result)
+
+
