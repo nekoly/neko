@@ -30,3 +30,67 @@ print("圆周率%.2f" % pi)
 
 num = 19
 print("%x" %num)
+
+#元组：以小括号形式的数据结合，（1，2，3，“abc",True)
+#可以存储任意数据类型
+#注意：元组可以根据下标获取数据，但是不能对元组进行数据修改
+# neko_tuple = (1,8,"abc",True,2.3)
+# print(neko_tuple,type(neko_tuple))
+
+#根据下标取值
+# value = neko_tuple[-1]
+# print(value)
+#元组不能根据下标删除数据
+
+#修改数据
+# del neko_tuple[2]
+# print(neko_tuple)
+#注意：不论元组里面装了什么数据类型都不可以修改
+neko_tuple = (2,[4,5])
+neko_list = neko_tuple[1]
+print(neko_list)
+neko_list = [1,2]
+print(neko_list)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
