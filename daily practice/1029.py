@@ -52,7 +52,36 @@ print(neko_list)
 neko_list = [1,2]
 print(neko_list)
 
+#修改元素
+ly_list = [23,"数据中心","流量一部","大客户部","物流中心"]
+ly_list[0] = "neko"
+print(ly_list)
 
+#删除列表中的元素
+#删除指定数据
+ly_list.remove("物流中心")
+print(ly_list)
+
+#根据下标删除元素(不能列表越界，删除的下标要合法）
+
+del ly_list[1]
+print(ly_list)
+
+#使用pop方式删除数据(pop如果不传任何参数，默认删除最后一个）
+#将删除的数据返回给我们
+result = ly_list.pop()
+print(ly_list,result)
+
+#判断指定数据是否在列表当中
+result = "neko" in ly_list
+print(result)
+result = ly_list.index("流量一部")
+print(result)
+
+#根指定数据获取数据在列表中的个数
+l_list = [6,6,6,4,3,5,7,8,6]
+result = l_list.count(6)
+print(result)
 
 
 
