@@ -24,6 +24,40 @@ print(ly_dict)
 del ly_dict["age"]
 print(ly_dict)
 
+ly_dict = {"name":"neko","age":18,"sex":"female"}
+#随机删除
+# result = ly_dict.popitem()
+# print(ly_dict,result)
+
+#指定数据删除
+value = ly_dict.pop("age")
+print(ly_dict,value)
+
+#获取所有的value
+result = ly_dict.values()
+print(result)
+
+#获取所有的key
+yao = ly_dict.keys()
+print(yao)
+
+#判断key是否在字典里
+
+result = "ouki" in ly_dict
+print(result)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
