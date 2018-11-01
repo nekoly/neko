@@ -1,6 +1,6 @@
 
 1.
- del ly_list[1]
+del ly_list[1]
 print(ly_list)
 
 为什么这个前面不用result?
