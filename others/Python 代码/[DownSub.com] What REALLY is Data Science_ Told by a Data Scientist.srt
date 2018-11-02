@@ -1,0 +1,1044 @@
+1
+00:00:00,030 --> 00:00:01,709
+data science<font color="#CCCCCC"> is not</font><font color="#E5E5E5"> about making</font>
+
+2
+00:00:01,709 --> 00:00:03,959
+<font color="#CCCCCC">complicated models</font><font color="#E5E5E5"> it's not about making</font>
+
+3
+00:00:03,959 --> 00:00:06,330
+awesome visualizations<font color="#CCCCCC"> it's not about</font>
+
+4
+00:00:06,330 --> 00:00:08,820
+writing<font color="#CCCCCC"> code</font><font color="#E5E5E5"> data science is about using</font>
+
+5
+00:00:08,820 --> 00:00:11,160
+<font color="#E5E5E5">data to create as much impact as</font>
+
+6
+00:00:11,160 --> 00:00:14,610
+<font color="#CCCCCC">possible</font><font color="#E5E5E5"> for your company now impact can</font>
+
+7
+00:00:14,610 --> 00:00:16,230
+be<font color="#CCCCCC"> in the form of multiple things</font><font color="#E5E5E5"> it</font>
+
+8
+00:00:16,230 --> 00:00:18,330
+could<font color="#CCCCCC"> be in the</font><font color="#E5E5E5"> form of insights in</font><font color="#CCCCCC"> the</font>
+
+9
+00:00:18,330 --> 00:00:20,910
+form of<font color="#E5E5E5"> data products or in the form of</font>
+
+10
+00:00:20,910 --> 00:00:22,529
+product recommendations for a company
+
+11
+00:00:22,529 --> 00:00:25,289
+now to do those things<font color="#E5E5E5"> then</font><font color="#CCCCCC"> you need</font>
+
+12
+00:00:25,289 --> 00:00:27,779
+tools like making complicated models or
+
+13
+00:00:27,779 --> 00:00:30,630
+data visualizations or writing code<font color="#E5E5E5"> but</font>
+
+14
+00:00:30,630 --> 00:00:33,600
+essentially as a data scientist<font color="#E5E5E5"> your job</font>
+
+15
+00:00:33,600 --> 00:00:36,480
+is<font color="#CCCCCC"> to solve</font><font color="#E5E5E5"> real company problems using</font>
+
+16
+00:00:36,480 --> 00:00:39,180
+<font color="#CCCCCC">data and what kind of tools you use</font><font color="#E5E5E5"> we</font>
+
+17
+00:00:39,180 --> 00:00:43,980
+don't care now there's a lot of
+
+18
+00:00:43,980 --> 00:00:45,420
+misconception<font color="#CCCCCC"> about data science</font>
+
+19
+00:00:45,420 --> 00:00:47,670
+<font color="#E5E5E5">especially</font><font color="#CCCCCC"> on YouTube and I think the</font>
+
+20
+00:00:47,670 --> 00:00:49,800
+reason<font color="#CCCCCC"> for this is because there's a</font>
+
+21
+00:00:49,800 --> 00:00:52,289
+huge misalignment between what's popular
+
+22
+00:00:52,289 --> 00:00:54,840
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> talk about</font><font color="#E5E5E5"> and what's needed in</font><font color="#CCCCCC"> the</font>
+
+23
+00:00:54,840 --> 00:00:56,640
+industry so because of<font color="#CCCCCC"> that I want to</font>
+
+24
+00:00:56,640 --> 00:00:59,699
+make<font color="#E5E5E5"> things clear</font><font color="#CCCCCC"> I am a data scientist</font>
+
+25
+00:00:59,699 --> 00:01:02,670
+working<font color="#E5E5E5"> for</font><font color="#CCCCCC"> a Gotha company and those</font>
+
+26
+00:01:02,670 --> 00:01:05,670
+<font color="#E5E5E5">companies really emphasize on using data</font>
+
+27
+00:01:05,670 --> 00:01:08,159
+<font color="#CCCCCC">to improve</font><font color="#E5E5E5"> their products so this is my</font>
+
+28
+00:01:08,159 --> 00:01:12,500
+take on<font color="#CCCCCC"> what</font><font color="#E5E5E5"> is big science</font>
+
+29
+00:01:14,180 --> 00:01:17,259
+[Music]
+
+30
+00:01:20,770 --> 00:01:23,210
+before data science we popularized the
+
+31
+00:01:23,210 --> 00:01:25,399
+term<font color="#E5E5E5"> data mining in an article</font><font color="#CCCCCC"> called</font>
+
+32
+00:01:25,399 --> 00:01:27,380
+<font color="#E5E5E5">from data mining to knowledge discovery</font>
+
+33
+00:01:27,380 --> 00:01:30,649
+<font color="#CCCCCC">in databases</font><font color="#E5E5E5"> in 1996 in which it</font>
+
+34
+00:01:30,649 --> 00:01:32,479
+referred to<font color="#E5E5E5"> the overall process of</font>
+
+35
+00:01:32,479 --> 00:01:34,939
+discovering useful information from data
+
+36
+00:01:34,939 --> 00:01:38,780
+<font color="#E5E5E5">in 2001 William s Cleveland wanted to</font>
+
+37
+00:01:38,780 --> 00:01:41,149
+bring data mining<font color="#E5E5E5"> to another level</font><font color="#CCCCCC"> he</font>
+
+38
+00:01:41,149 --> 00:01:43,070
+did that by combining<font color="#E5E5E5"> computer science</font>
+
+39
+00:01:43,070 --> 00:01:45,350
+with data<font color="#CCCCCC"> mining basically he made</font>
+
+40
+00:01:45,350 --> 00:01:48,020
+<font color="#E5E5E5">statistics a lot more</font><font color="#CCCCCC"> technical which he</font>
+
+41
+00:01:48,020 --> 00:01:49,880
+believed would expand the possibilities
+
+42
+00:01:49,880 --> 00:01:51,920
+<font color="#CCCCCC">of data mining and produce a powerful</font>
+
+43
+00:01:51,920 --> 00:01:54,200
+<font color="#E5E5E5">force for innovation</font><font color="#CCCCCC"> now you can take</font>
+
+44
+00:01:54,200 --> 00:01:55,939
+<font color="#E5E5E5">advantage</font><font color="#CCCCCC"> of compute power for</font>
+
+45
+00:01:55,939 --> 00:01:58,549
+statistics<font color="#CCCCCC"> and</font><font color="#E5E5E5"> he called this combo data</font>
+
+46
+00:01:58,549 --> 00:02:01,130
+<font color="#E5E5E5">science around this time this is also</font>
+
+47
+00:02:01,130 --> 00:02:04,909
+when web 2.0 emerged where websites are
+
+48
+00:02:04,909 --> 00:02:06,920
+no longer<font color="#CCCCCC"> just a digital pamphlet</font><font color="#E5E5E5"> but a</font>
+
+49
+00:02:06,920 --> 00:02:09,440
+medium<font color="#CCCCCC"> for a shared experience</font><font color="#E5E5E5"> amongst</font>
+
+50
+00:02:09,440 --> 00:02:12,049
+millions and millions of<font color="#E5E5E5"> users these are</font>
+
+51
+00:02:12,049 --> 00:02:14,989
+web<font color="#CCCCCC"> sites like</font><font color="#E5E5E5"> MySpace in 2003 Facebook</font>
+
+52
+00:02:14,989 --> 00:02:18,590
+in 2004 and YouTube in 2005 we can now
+
+53
+00:02:18,590 --> 00:02:20,810
+interact<font color="#E5E5E5"> with these web sites</font><font color="#CCCCCC"> meaning we</font>
+
+54
+00:02:20,810 --> 00:02:23,299
+can contribute post comment like upload
+
+55
+00:02:23,299 --> 00:02:25,370
+share<font color="#E5E5E5"> leaving our footprint in the</font>
+
+56
+00:02:25,370 --> 00:02:28,010
+digital landscape<font color="#E5E5E5"> we call</font><font color="#CCCCCC"> Internet and</font>
+
+57
+00:02:28,010 --> 00:02:30,590
+help<font color="#E5E5E5"> create and shape the ecosystem we</font>
+
+58
+00:02:30,590 --> 00:02:33,530
+now know and love today<font color="#CCCCCC"> and</font><font color="#E5E5E5"> guess what</font>
+
+59
+00:02:33,530 --> 00:02:35,870
+that's<font color="#E5E5E5"> a lot</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> data so</font><font color="#CCCCCC"> much data it</font>
+
+60
+00:02:35,870 --> 00:02:37,430
+became too much<font color="#E5E5E5"> to</font><font color="#CCCCCC"> handle using</font>
+
+61
+00:02:37,430 --> 00:02:39,739
+<font color="#CCCCCC">traditional technologies so</font><font color="#E5E5E5"> we call this</font>
+
+62
+00:02:39,739 --> 00:02:42,620
+<font color="#CCCCCC">Big Data</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> opened a world of</font>
+
+63
+00:02:42,620 --> 00:02:44,720
+possibilities in finding insights<font color="#E5E5E5"> using</font>
+
+64
+00:02:44,720 --> 00:02:47,030
+data but it also meant that<font color="#E5E5E5"> the simplest</font>
+
+65
+00:02:47,030 --> 00:02:49,010
+questions require<font color="#CCCCCC"> sophisticated data</font>
+
+66
+00:02:49,010 --> 00:02:50,959
+infrastructure<font color="#CCCCCC"> just to support</font><font color="#E5E5E5"> the</font>
+
+67
+00:02:50,959 --> 00:02:53,569
+handling of<font color="#E5E5E5"> the data we needed parallel</font>
+
+68
+00:02:53,569 --> 00:02:55,190
+computing technology like MapReduce
+
+69
+00:02:55,190 --> 00:02:58,400
+Hadoop and spark<font color="#CCCCCC"> so the rise of</font><font color="#E5E5E5"> big data</font>
+
+70
+00:02:58,400 --> 00:03:01,489
+<font color="#E5E5E5">in 2010 sparked the rise of data science</font>
+
+71
+00:03:01,489 --> 00:03:03,380
+to support<font color="#E5E5E5"> the needs of the businesses</font>
+
+72
+00:03:03,380 --> 00:03:05,480
+<font color="#E5E5E5">to draw insights from their massive</font>
+
+73
+00:03:05,480 --> 00:03:07,880
+unstructured data sets so then the
+
+74
+00:03:07,880 --> 00:03:09,829
+<font color="#E5E5E5">journal of data science</font><font color="#CCCCCC"> described data</font>
+
+75
+00:03:09,829 --> 00:03:12,230
+science as almost everything<font color="#CCCCCC"> that</font><font color="#E5E5E5"> has</font>
+
+76
+00:03:12,230 --> 00:03:14,329
+something<font color="#E5E5E5"> to do with data collecting</font>
+
+77
+00:03:14,329 --> 00:03:16,609
+analyzing<font color="#E5E5E5"> modeling yet the most</font>
+
+78
+00:03:16,609 --> 00:03:19,430
+important part is its applications<font color="#CCCCCC"> all</font>
+
+79
+00:03:19,430 --> 00:03:22,400
+sorts of application yes all sorts of
+
+80
+00:03:22,400 --> 00:03:24,580
+<font color="#CCCCCC">applications</font><font color="#E5E5E5"> like</font><font color="#CCCCCC"> machine learning</font>
+
+81
+00:03:24,580 --> 00:03:27,520
+so in 2010 with the<font color="#E5E5E5"> new abundance of</font>
+
+82
+00:03:27,520 --> 00:03:29,290
+data<font color="#CCCCCC"> it made it possible</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> train</font>
+
+83
+00:03:29,290 --> 00:03:31,210
+machines with a data-driven approach
+
+84
+00:03:31,210 --> 00:03:33,430
+<font color="#E5E5E5">rather than a knowledge driven approach</font>
+
+85
+00:03:33,430 --> 00:03:35,410
+all the<font color="#CCCCCC"> theoretical</font><font color="#E5E5E5"> papers about</font>
+
+86
+00:03:35,410 --> 00:03:37,810
+recurring neural networks<font color="#E5E5E5"> support vector</font>
+
+87
+00:03:37,810 --> 00:03:40,270
+machines became<font color="#E5E5E5"> feasible something that</font>
+
+88
+00:03:40,270 --> 00:03:42,190
+can change<font color="#CCCCCC"> the way we live and how we</font>
+
+89
+00:03:42,190 --> 00:03:44,290
+<font color="#E5E5E5">experience things in the world deep</font>
+
+90
+00:03:44,290 --> 00:03:46,630
+learning<font color="#E5E5E5"> is no longer an academic</font>
+
+91
+00:03:46,630 --> 00:03:49,210
+concept in these thesis paper<font color="#CCCCCC"> it</font><font color="#E5E5E5"> became</font>
+
+92
+00:03:49,210 --> 00:03:51,460
+a tangible useful class of<font color="#E5E5E5"> machine</font>
+
+93
+00:03:51,460 --> 00:03:53,230
+<font color="#CCCCCC">learning</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> would affect</font><font color="#E5E5E5"> our everyday</font>
+
+94
+00:03:53,230 --> 00:03:55,780
+<font color="#E5E5E5">lives</font><font color="#CCCCCC"> so machine learning and</font><font color="#E5E5E5"> AI</font>
+
+95
+00:03:55,780 --> 00:03:58,660
+dominated the media overshadowing<font color="#E5E5E5"> every</font>
+
+96
+00:03:58,660 --> 00:04:01,210
+other aspect of<font color="#E5E5E5"> data science like export</font>
+
+97
+00:04:01,210 --> 00:04:04,060
+or analysis<font color="#E5E5E5"> experimentation and skills</font>
+
+98
+00:04:04,060 --> 00:04:05,620
+we traditionally called<font color="#E5E5E5"> business</font>
+
+99
+00:04:05,620 --> 00:04:09,430
+<font color="#CCCCCC">intelligence</font><font color="#E5E5E5"> so now the general public</font>
+
+100
+00:04:09,430 --> 00:04:11,980
+think of data science<font color="#E5E5E5"> as researchers</font>
+
+101
+00:04:11,980 --> 00:04:14,770
+focused on machine learning<font color="#CCCCCC"> and</font><font color="#E5E5E5"> AI but</font>
+
+102
+00:04:14,770 --> 00:04:16,630
+the industry<font color="#CCCCCC"> is hiring data scientists</font>
+
+103
+00:04:16,630 --> 00:04:18,880
+as analysts so there's a misalignment
+
+104
+00:04:18,880 --> 00:04:21,459
+there<font color="#E5E5E5"> the reason for the misalignment is</font>
+
+105
+00:04:21,459 --> 00:04:23,710
+that yes most of<font color="#E5E5E5"> these data scientists</font>
+
+106
+00:04:23,710 --> 00:04:25,510
+can probably work<font color="#E5E5E5"> on more technical</font>
+
+107
+00:04:25,510 --> 00:04:27,940
+problems<font color="#E5E5E5"> but big</font><font color="#CCCCCC"> companies like Google</font>
+
+108
+00:04:27,940 --> 00:04:30,040
+Facebook<font color="#E5E5E5"> Netflix have so many</font>
+
+109
+00:04:30,040 --> 00:04:31,930
+low-hanging fruits<font color="#E5E5E5"> to improve their</font>
+
+110
+00:04:31,930 --> 00:04:33,490
+products<font color="#E5E5E5"> that they don't require any</font>
+
+111
+00:04:33,490 --> 00:04:36,100
+advanced machine learning<font color="#CCCCCC"> or statistical</font>
+
+112
+00:04:36,100 --> 00:04:38,320
+<font color="#CCCCCC">knowledge to find</font><font color="#E5E5E5"> these impacts in their</font>
+
+113
+00:04:38,320 --> 00:04:41,200
+analysis being<font color="#E5E5E5"> a good data scientist</font>
+
+114
+00:04:41,200 --> 00:04:43,419
+isn't<font color="#CCCCCC"> about how advanced</font><font color="#E5E5E5"> your models are</font>
+
+115
+00:04:43,419 --> 00:04:45,820
+it's about<font color="#E5E5E5"> how much impact you can</font><font color="#CCCCCC"> have</font>
+
+116
+00:04:45,820 --> 00:04:47,770
+with<font color="#CCCCCC"> your work you're not a data</font>
+
+117
+00:04:47,770 --> 00:04:50,080
+cruncher you're a problem solver
+
+118
+00:04:50,080 --> 00:04:52,540
+<font color="#CCCCCC">you're strategists companies will give</font>
+
+119
+00:04:52,540 --> 00:04:54,669
+you the most<font color="#E5E5E5"> ambiguous and hard problems</font>
+
+120
+00:04:54,669 --> 00:04:56,710
+<font color="#E5E5E5">and we expect you</font><font color="#CCCCCC"> to guide the company</font>
+
+121
+00:04:56,710 --> 00:05:00,790
+<font color="#E5E5E5">to the right direction</font><font color="#CCCCCC"> ok now</font><font color="#E5E5E5"> I want</font><font color="#CCCCCC"> to</font>
+
+122
+00:05:00,790 --> 00:05:03,040
+<font color="#E5E5E5">conclude with real-life examples of data</font>
+
+123
+00:05:03,040 --> 00:05:05,620
+science jobs in Silicon Valley<font color="#CCCCCC"> but first</font>
+
+124
+00:05:05,620 --> 00:05:07,870
+I have to<font color="#E5E5E5"> print some charts</font><font color="#CCCCCC"> so let's go</font>
+
+125
+00:05:07,870 --> 00:05:10,020
+do that
+
+126
+00:05:15,430 --> 00:05:18,560
+get in here<font color="#CCCCCC"> this</font><font color="#E5E5E5"> you don't live here</font>
+
+127
+00:05:18,560 --> 00:05:20,180
+<font color="#CCCCCC">anymore</font><font color="#E5E5E5"> you can't just come in whenever</font>
+
+128
+00:05:20,180 --> 00:05:22,090
+you<font color="#E5E5E5"> want</font><font color="#CCCCCC"> can't drive to the</font><font color="#E5E5E5"> office</font>
+
+129
+00:05:22,090 --> 00:05:36,940
+<font color="#E5E5E5">no thanks for driving</font>
+
+130
+00:05:46,730 --> 00:06:00,730
+[Music]
+
+131
+00:06:00,730 --> 00:06:04,460
+so this is a very useful chart that
+
+132
+00:06:04,460 --> 00:06:07,100
+<font color="#E5E5E5">tells you the needs of data science now</font>
+
+133
+00:06:07,100 --> 00:06:08,930
+it's pretty<font color="#CCCCCC"> obvious but</font><font color="#E5E5E5"> sometimes we</font>
+
+134
+00:06:08,930 --> 00:06:11,150
+kind<font color="#E5E5E5"> of forget</font><font color="#CCCCCC"> about it</font><font color="#E5E5E5"> now at the</font>
+
+135
+00:06:11,150 --> 00:06:12,800
+bottom<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the pyramid we have collect</font>
+
+136
+00:06:12,800 --> 00:06:14,810
+<font color="#E5E5E5">you obviously have to collect</font><font color="#CCCCCC"> some sort</font>
+
+137
+00:06:14,810 --> 00:06:17,900
+of<font color="#E5E5E5"> data to be able</font><font color="#CCCCCC"> to use</font><font color="#E5E5E5"> that data so</font>
+
+138
+00:06:17,900 --> 00:06:20,630
+collect storing transforming all<font color="#E5E5E5"> of</font>
+
+139
+00:06:20,630 --> 00:06:22,670
+these data<font color="#E5E5E5"> engineering effort is pretty</font>
+
+140
+00:06:22,670 --> 00:06:24,500
+important<font color="#E5E5E5"> and it's high it's actually</font>
+
+141
+00:06:24,500 --> 00:06:26,030
+quite captured pretty well<font color="#E5E5E5"> in media</font>
+
+142
+00:06:26,030 --> 00:06:28,430
+because<font color="#CCCCCC"> of</font><font color="#E5E5E5"> big data we talked about how</font>
+
+143
+00:06:28,430 --> 00:06:30,530
+difficult<font color="#CCCCCC"> it is</font><font color="#E5E5E5"> to manage all this data</font>
+
+144
+00:06:30,530 --> 00:06:33,650
+<font color="#CCCCCC">we talked about parallel computing</font><font color="#E5E5E5"> which</font>
+
+145
+00:06:33,650 --> 00:06:36,380
+means like Hadoop<font color="#E5E5E5"> and spark</font><font color="#CCCCCC"> stuff like</font>
+
+146
+00:06:36,380 --> 00:06:38,750
+that we know about this<font color="#E5E5E5"> now the thing</font>
+
+147
+00:06:38,750 --> 00:06:40,880
+that's less known is<font color="#CCCCCC"> the stuff</font><font color="#E5E5E5"> in</font>
+
+148
+00:06:40,880 --> 00:06:44,330
+<font color="#E5E5E5">between which is right here</font><font color="#CCCCCC"> everything</font>
+
+149
+00:06:44,330 --> 00:06:46,880
+<font color="#E5E5E5">that's here</font><font color="#CCCCCC"> and surprisingly this is</font>
+
+150
+00:06:46,880 --> 00:06:48,230
+actually one of the most important
+
+151
+00:06:48,230 --> 00:06:49,970
+things<font color="#E5E5E5"> for companies because you're</font>
+
+152
+00:06:49,970 --> 00:06:51,980
+<font color="#E5E5E5">trying to tell the company</font><font color="#CCCCCC"> what to do</font>
+
+153
+00:06:51,980 --> 00:06:53,780
+with your product<font color="#E5E5E5"> so what do I</font><font color="#CCCCCC"> mean by</font>
+
+154
+00:06:53,780 --> 00:06:54,260
+<font color="#E5E5E5">that</font>
+
+155
+00:06:54,260 --> 00:06:57,620
+so I'm an analytics<font color="#E5E5E5"> that tells you using</font>
+
+156
+00:06:57,620 --> 00:06:59,690
+the data<font color="#E5E5E5"> what kind of insights can tell</font>
+
+157
+00:06:59,690 --> 00:07:01,610
+me what are happening to my users and
+
+158
+00:07:01,610 --> 00:07:03,650
+then metrics this is important because
+
+159
+00:07:03,650 --> 00:07:06,500
+what's<font color="#E5E5E5"> going on with my product you know</font>
+
+160
+00:07:06,500 --> 00:07:07,970
+these metrics<font color="#CCCCCC"> will tell you if you're</font>
+
+161
+00:07:07,970 --> 00:07:10,610
+successful<font color="#E5E5E5"> or</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> and then also you know</font>
+
+162
+00:07:10,610 --> 00:07:13,130
+<font color="#E5E5E5">a be testing of course experimentation</font>
+
+163
+00:07:13,130 --> 00:07:16,160
+<font color="#CCCCCC">that allows you</font><font color="#E5E5E5"> to know which product</font>
+
+164
+00:07:16,160 --> 00:07:18,200
+versions are the<font color="#E5E5E5"> best so these things</font>
+
+165
+00:07:18,200 --> 00:07:19,430
+<font color="#E5E5E5">are actually really important but</font>
+
+166
+00:07:19,430 --> 00:07:21,200
+<font color="#E5E5E5">they're not so covered in media what's</font>
+
+167
+00:07:21,200 --> 00:07:24,020
+covered in media is this part<font color="#E5E5E5"> a I deep</font>
+
+168
+00:07:24,020 --> 00:07:25,940
+learning<font color="#E5E5E5"> we've heard it on and on about</font>
+
+169
+00:07:25,940 --> 00:07:27,950
+<font color="#CCCCCC">it you know</font><font color="#E5E5E5"> but when you think about it</font>
+
+170
+00:07:27,950 --> 00:07:30,320
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> a company for the</font><font color="#E5E5E5"> industry it's</font>
+
+171
+00:07:30,320 --> 00:07:32,690
+actually<font color="#E5E5E5"> not the highest priority</font><font color="#CCCCCC"> or at</font>
+
+172
+00:07:32,690 --> 00:07:34,610
+<font color="#E5E5E5">least it's</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> the thing that yields</font><font color="#CCCCCC"> the</font>
+
+173
+00:07:34,610 --> 00:07:36,380
+most result for the lowest<font color="#CCCCCC"> amount of</font>
+
+174
+00:07:36,380 --> 00:07:39,110
+effort<font color="#E5E5E5"> that's why</font><font color="#CCCCCC"> AI deep learning is on</font>
+
+175
+00:07:39,110 --> 00:07:41,690
+top of the hierarchy<font color="#E5E5E5"> of needs and these</font>
+
+176
+00:07:41,690 --> 00:07:44,570
+things<font color="#E5E5E5"> may be testing analytics they're</font>
+
+177
+00:07:44,570 --> 00:07:46,250
+actually way more important for<font color="#CCCCCC"> industry</font>
+
+178
+00:07:46,250 --> 00:07:48,530
+<font color="#E5E5E5">so that's why we're hiring a lot of data</font>
+
+179
+00:07:48,530 --> 00:07:50,660
+<font color="#E5E5E5">scientists that does that so what do you</font>
+
+180
+00:07:50,660 --> 00:07:52,580
+think is scientists actually do<font color="#E5E5E5"> well</font>
+
+181
+00:07:52,580 --> 00:07:54,410
+<font color="#CCCCCC">that depends on</font><font color="#E5E5E5"> the company because</font><font color="#CCCCCC"> of</font>
+
+182
+00:07:54,410 --> 00:07:56,630
+<font color="#E5E5E5">them as of the size so</font><font color="#CCCCCC"> for a</font><font color="#E5E5E5"> start-up</font>
+
+183
+00:07:56,630 --> 00:07:59,240
+<font color="#CCCCCC">you kind of</font><font color="#E5E5E5"> lack resources so you can</font>
+
+184
+00:07:59,240 --> 00:08:01,430
+only<font color="#E5E5E5"> kind of have one D s so</font><font color="#CCCCCC"> that one</font>
+
+185
+00:08:01,430 --> 00:08:02,990
+data<font color="#E5E5E5"> scientist he has to do everything</font>
+
+186
+00:08:02,990 --> 00:08:04,740
+<font color="#E5E5E5">so</font><font color="#CCCCCC"> you might be</font><font color="#E5E5E5"> seeing all</font>
+
+187
+00:08:04,740 --> 00:08:07,919
+all this<font color="#E5E5E5"> being data</font><font color="#CCCCCC"> scientists maybe you</font>
+
+188
+00:08:07,919 --> 00:08:09,509
+<font color="#E5E5E5">won't be doing</font><font color="#CCCCCC"> a IR deep learning</font>
+
+189
+00:08:09,509 --> 00:08:11,130
+<font color="#CCCCCC">because that's not</font><font color="#E5E5E5"> a priority right now</font>
+
+190
+00:08:11,130 --> 00:08:13,470
+<font color="#E5E5E5">but you might be</font><font color="#CCCCCC"> doing all this</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> have</font>
+
+191
+00:08:13,470 --> 00:08:15,360
+to set up<font color="#E5E5E5"> the whole data infrastructure</font>
+
+192
+00:08:15,360 --> 00:08:17,490
+<font color="#CCCCCC">you might even have</font><font color="#E5E5E5"> to write some</font>
+
+193
+00:08:17,490 --> 00:08:20,009
+software<font color="#E5E5E5"> code to add logging and then</font>
+
+194
+00:08:20,009 --> 00:08:21,539
+you have to do the analytics<font color="#E5E5E5"> yourself</font>
+
+195
+00:08:21,539 --> 00:08:22,889
+<font color="#E5E5E5">then you have to build the metrics</font>
+
+196
+00:08:22,889 --> 00:08:24,930
+yourself and you<font color="#CCCCCC"> have</font><font color="#E5E5E5"> to do a</font><font color="#CCCCCC"> B testing</font>
+
+197
+00:08:24,930 --> 00:08:28,050
+yourself<font color="#CCCCCC"> that's why for startups</font><font color="#E5E5E5"> if they</font>
+
+198
+00:08:28,050 --> 00:08:29,039
+need a data scientist
+
+199
+00:08:29,039 --> 00:08:32,669
+this whole thing is<font color="#E5E5E5"> data science so that</font>
+
+200
+00:08:32,669 --> 00:08:34,500
+<font color="#CCCCCC">means you</font><font color="#E5E5E5"> have to do everything but</font>
+
+201
+00:08:34,500 --> 00:08:36,779
+<font color="#E5E5E5">let's look at medium-sized</font><font color="#CCCCCC"> companies now</font>
+
+202
+00:08:36,779 --> 00:08:38,039
+finally they have a lot more<font color="#E5E5E5"> resources</font>
+
+203
+00:08:38,039 --> 00:08:40,679
+<font color="#CCCCCC">that can separate the data engineers and</font>
+
+204
+00:08:40,679 --> 00:08:43,320
+the data scientists so<font color="#E5E5E5"> usually in</font>
+
+205
+00:08:43,320 --> 00:08:45,810
+collection this<font color="#E5E5E5"> is probably software</font>
+
+206
+00:08:45,810 --> 00:08:49,170
+engineering and then here you're gonna
+
+207
+00:08:49,170 --> 00:08:51,959
+have<font color="#E5E5E5"> data engineers doing this and then</font>
+
+208
+00:08:51,959 --> 00:08:54,360
+depending<font color="#E5E5E5"> if you're</font><font color="#CCCCCC"> medium-sized company</font>
+
+209
+00:08:54,360 --> 00:08:56,339
+does a lot<font color="#E5E5E5"> of recommendation models or</font>
+
+210
+00:08:56,339 --> 00:08:59,100
+stuff that<font color="#E5E5E5"> requires</font><font color="#CCCCCC"> AI</font><font color="#E5E5E5"> then the S will</font>
+
+211
+00:08:59,100 --> 00:09:02,100
+do all this<font color="#E5E5E5"> right so as a data scientist</font>
+
+212
+00:09:02,100 --> 00:09:03,240
+you have<font color="#CCCCCC"> to be a lot more technical</font>
+
+213
+00:09:03,240 --> 00:09:05,010
+<font color="#CCCCCC">that's why</font><font color="#E5E5E5"> they</font><font color="#CCCCCC"> only hire people with</font>
+
+214
+00:09:05,010 --> 00:09:07,950
+PhDs or<font color="#E5E5E5"> masters because</font><font color="#CCCCCC"> they want you to</font>
+
+215
+00:09:07,950 --> 00:09:10,260
+be able to<font color="#E5E5E5"> do the more complicated</font>
+
+216
+00:09:10,260 --> 00:09:13,200
+<font color="#E5E5E5">things so let's talk</font><font color="#CCCCCC"> about large company</font>
+
+217
+00:09:13,200 --> 00:09:15,390
+now because you're<font color="#CCCCCC"> getting a lot</font><font color="#E5E5E5"> bigger</font>
+
+218
+00:09:15,390 --> 00:09:16,950
+<font color="#CCCCCC">you probably have a lot more money and</font>
+
+219
+00:09:16,950 --> 00:09:18,540
+<font color="#E5E5E5">then you</font><font color="#CCCCCC"> can spend</font><font color="#E5E5E5"> it more on employees</font>
+
+220
+00:09:18,540 --> 00:09:20,579
+<font color="#E5E5E5">so you can have a lot of different</font>
+
+221
+00:09:20,579 --> 00:09:22,350
+employees<font color="#CCCCCC"> where counterfeit things that</font>
+
+222
+00:09:22,350 --> 00:09:24,480
+way<font color="#E5E5E5"> the employee does not need to think</font>
+
+223
+00:09:24,480 --> 00:09:25,980
+<font color="#CCCCCC">about</font><font color="#E5E5E5"> this stuff</font><font color="#CCCCCC"> that they don't</font><font color="#E5E5E5"> want to</font>
+
+224
+00:09:25,980 --> 00:09:27,630
+do and<font color="#CCCCCC"> it could</font><font color="#E5E5E5"> focus on the things that</font>
+
+225
+00:09:27,630 --> 00:09:30,420
+<font color="#E5E5E5">they're best at</font><font color="#CCCCCC"> for example me and my</font>
+
+226
+00:09:30,420 --> 00:09:32,820
+untitled large company<font color="#CCCCCC"> I would be in</font>
+
+227
+00:09:32,820 --> 00:09:35,279
+analytics<font color="#E5E5E5"> so I could just focus my work</font>
+
+228
+00:09:35,279 --> 00:09:37,350
+<font color="#E5E5E5">on analytics and metrics and stuff like</font>
+
+229
+00:09:37,350 --> 00:09:38,640
+that<font color="#E5E5E5"> so I don't need to worry</font><font color="#CCCCCC"> about data</font>
+
+230
+00:09:38,640 --> 00:09:42,390
+engineering<font color="#E5E5E5"> or AI deep learning stuff so</font>
+
+231
+00:09:42,390 --> 00:09:44,600
+here's how it looks for a large<font color="#E5E5E5"> company</font>
+
+232
+00:09:44,600 --> 00:09:47,670
+<font color="#E5E5E5">instrumental logging sensors this is</font><font color="#CCCCCC"> all</font>
+
+233
+00:09:47,670 --> 00:09:50,459
+handled by<font color="#E5E5E5"> software</font><font color="#CCCCCC"> engineers right and</font>
+
+234
+00:09:50,459 --> 00:09:52,649
+then here it's<font color="#E5E5E5"> cleaning and</font><font color="#CCCCCC"> building</font>
+
+235
+00:09:52,649 --> 00:09:54,750
+data pipelines this is for data
+
+236
+00:09:54,750 --> 00:09:57,899
+engineers now here between these<font color="#E5E5E5"> two</font>
+
+237
+00:09:57,899 --> 00:10:02,190
+<font color="#E5E5E5">things we have data science analytics</font>
+
+238
+00:10:02,190 --> 00:10:05,459
+<font color="#E5E5E5">that's what it's called but then once we</font>
+
+239
+00:10:05,459 --> 00:10:07,290
+go to the AI and deep learning this is
+
+240
+00:10:07,290 --> 00:10:13,020
+where we have research scientists or we
+
+241
+00:10:13,020 --> 00:10:17,010
+call<font color="#E5E5E5"> it data science core and they are</font>
+
+242
+00:10:17,010 --> 00:10:17,850
+backed by
+
+243
+00:10:17,850 --> 00:10:20,370
+and now engineers<font color="#E5E5E5"> which are machine</font>
+
+244
+00:10:20,370 --> 00:10:24,390
+learning engineers<font color="#E5E5E5"> yeah anyways so in</font>
+
+245
+00:10:24,390 --> 00:10:26,850
+summary as you can see data science can
+
+246
+00:10:26,850 --> 00:10:29,670
+<font color="#CCCCCC">be all</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> this and it depends what</font>
+
+247
+00:10:29,670 --> 00:10:32,010
+company you are<font color="#E5E5E5"> in and</font><font color="#CCCCCC"> that definition</font>
+
+248
+00:10:32,010 --> 00:10:34,800
+will vary<font color="#E5E5E5"> so please let</font><font color="#CCCCCC"> me</font><font color="#E5E5E5"> know what you</font>
+
+249
+00:10:34,800 --> 00:10:36,930
+would like<font color="#CCCCCC"> to learn more about AI deep</font>
+
+250
+00:10:36,930 --> 00:10:39,270
+learning<font color="#E5E5E5"> or AP testing experimentation</font>
+
+251
+00:10:39,270 --> 00:10:40,860
+depending on what you want<font color="#CCCCCC"> to learn</font>
+
+252
+00:10:40,860 --> 00:10:43,380
+<font color="#CCCCCC">about leave a comment down below so I</font>
+
+253
+00:10:43,380 --> 00:10:45,000
+could talk about<font color="#CCCCCC"> it or I could find</font>
+
+254
+00:10:45,000 --> 00:10:46,860
+someone<font color="#E5E5E5"> who knows about this</font><font color="#CCCCCC"> and I can</font>
+
+255
+00:10:46,860 --> 00:10:50,220
+share the insights<font color="#E5E5E5"> with you so yeah if</font>
+
+256
+00:10:50,220 --> 00:10:51,780
+you<font color="#E5E5E5"> like this video don't</font><font color="#CCCCCC"> forget to like</font>
+
+257
+00:10:51,780 --> 00:10:54,360
+and subscribe<font color="#CCCCCC"> so yeah</font><font color="#E5E5E5"> hope you</font><font color="#CCCCCC"> have a</font>
+
+258
+00:10:54,360 --> 00:10:56,400
+wonderful day<font color="#E5E5E5"> hope this was helpful</font><font color="#CCCCCC"> but</font>
+
+259
+00:10:56,400 --> 00:10:59,020
+<font color="#E5E5E5">yeah thanks</font><font color="#CCCCCC"> for watching</font>
+
+260
+00:10:59,020 --> 00:11:02,110
+[Music]
+
+261
+00:11:06,630 --> 00:00:00,000
+[Music]
+
