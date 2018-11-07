@@ -32,11 +32,16 @@ Value和result, del ly_list三种用法怎么区别？什么时候用value，res
 
 3.
 #打印0-5
+
+
 #执行5次循环
 
 num= 0
+
 while num < 5:
+
     print(num)
+    
     num += 1
 
 0
