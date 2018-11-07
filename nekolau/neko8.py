@@ -8,21 +8,21 @@ if __name__ == '__main__':
      }
      # 排名
      i = 1;
-     for i in range(1, 695):
+     for i in range(1, 957):
          print(i);
-         # url = "https://www.ikjzd.com/tl/9924.html/"
-         # resp = requests.get(url, headers=unicornHeader, timeout=30)
-         #
-         # url = "https://www.ikjzd.com/tl/9926.html/"
-         # resp = requests.get(url, headers=unicornHeader, timeout=30)
-         #
-         # url = "https://www.ikjzd.com/tl/9929.html/"
-         # resp = requests.get(url, headers=unicornHeader, timeout=30)
-         #
+         url = "https://www.ikjzd.com/tl/10143.html/"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         url = "https://www.ikjzd.com/tl/10256.html/"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         url = "https://www.ikjzd.com/tl/10145.html/"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
          # url = "https://www.ikjzd.com/tl/10069.html/"
          # resp = requests.get(url, headers=unicornHeader, timeout=30)
-
-         url = "https://www.ikjzd.com/tl/9402.html/"
-         resp = requests.get(url, headers=unicornHeader, timeout=30)
+         #
+         # url = "https://www.ikjzd.com/tl/9402.html/"
+         # resp = requests.get(url, headers=unicornHeader, timeout=30)
 
 
