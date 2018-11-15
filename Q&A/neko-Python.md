@@ -44,6 +44,10 @@ Value和result, del ly_list三种用法怎么区别？什么时候用value，res
 
 #打印0-5
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> f3824a0b046da1b0274d3be480429ba520696343
 #执行5次循环
 
 num= 0
