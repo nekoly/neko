@@ -1,5 +1,6 @@
 # -*- coding: utf-8- -*-
 
+#第三种
 def converter(wight):
     ponds=wight/0.45
     print(ponds)
@@ -20,7 +21,15 @@ def neko01(wight=1.25):
 neko01(wight=8)
 
 
+#第一种
+def neko():
+    return"hello,neko"
+a=neko()
+print(a)
 
-
-
+#第二种
+def su(a,b,c):
+    return(a+b+c)
+a=su(1,2,3,)
+print(a)
 
