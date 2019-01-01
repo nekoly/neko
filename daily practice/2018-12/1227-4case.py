@@ -16,6 +16,7 @@ neko(66.39)
 neko(56)
 neko(123)
 
+
 #no.2
 def neko01(wight=1.25):
       a=wight*0.5
@@ -48,6 +49,8 @@ def neko():
     return"hello,neko"
 a=neko()
 print(a)
+
+
 
 #第二种
 def su(a,b,c):
