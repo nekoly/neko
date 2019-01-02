@@ -10,12 +10,23 @@ if __name__ == '__main__':
      }
      # 排名
      i = 1;
-     for i in range(1, 5):
+     for i in range(1, 584):
          print(i);
-         # url = "https://www.ikjzd.com/a/12262.html/"
-         # resp = requests.get(url, headers=unicornHeader, timeout=30)
 
          sleep(randint(1, 50))
-         url = "https://www.ikjzd.com/a/14018.html"
+         url = "https://www.ikjzd.com/a/14242.html"
          resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         sleep(randint(1, 50))
+         url = "https://www.ikjzd.com/a/14237.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         sleep(randint(1, 50))
+         url = "https://www.ikjzd.com/a/14235.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         sleep(randint(1, 50))
+         url = "https://www.ikjzd.com/a/14224.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
 

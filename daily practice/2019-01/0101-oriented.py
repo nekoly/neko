@@ -24,10 +24,13 @@ ly.ablity()
 
 
 
-# city="hk"
-# print(city.upper())
+city="hk"
+print(city.upper())
+
+
 
 def neko(a,b,c):
     return(a+b+c)
 a=neko(5,6,7)
 print(a)
+
