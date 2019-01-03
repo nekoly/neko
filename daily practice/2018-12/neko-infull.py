@@ -13,8 +13,12 @@ if __name__ == '__main__':
      for i in range(1, 384):
          print(i);
 
+<<<<<<< HEAD
          #0102
          sleep(randint(1, 8))
+=======
+         sleep(randint(1, 30))
+>>>>>>> 151fada08a41ca6d35fa7e9bc38cbb5aaa569eb2
          url = "https://www.ikjzd.com/a/14242.html"
          resp = requests.get(url, headers=unicornHeader, timeout=30)
 
