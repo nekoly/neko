@@ -14,29 +14,36 @@ if __name__ == '__main__':
          print(i);
 
          #0102
-         sleep(randint(1, 8))
-         url = "https://www.ikjzd.com/a/14242.html"
-         resp = requests.get(url, headers=unicornHeader, timeout=30)
-
-         sleep(randint(1, 8))
-         url = "https://www.ikjzd.com/a/14237.html"
-         resp = requests.get(url, headers=unicornHeader, timeout=30)
-
-         sleep(randint(1, 8))
-         url = "https://www.ikjzd.com/a/14235.html"
-         resp = requests.get(url, headers=unicornHeader, timeout=30)
-
-         sleep(randint(1, 8))
-         url = "https://www.ikjzd.com/a/14224.html"
-         resp = requests.get(url, headers=unicornHeader, timeout=30)
+         # sleep(randint(1, 8))
+         # url = "https://www.ikjzd.com/a/14242.html"
+         # resp = requests.get(url, headers=unicornHeader, timeout=30)
+         #
+         # sleep(randint(1, 8))
+         # url = "https://www.ikjzd.com/a/14237.html"
+         # resp = requests.get(url, headers=unicornHeader, timeout=30)
+         #
+         # sleep(randint(1, 8))
+         # url = "https://www.ikjzd.com/a/14235.html"
+         # resp = requests.get(url, headers=unicornHeader, timeout=30)
+         #
+         # sleep(randint(1, 8))
+         # url = "https://www.ikjzd.com/a/14224.html"
+         # resp = requests.get(url, headers=unicornHeader, timeout=30)
 
          #0103
-         sleep(randint(1, 8))
-         url = "https://www.ikjzd.com/a/14331.html"
+         # sleep(randint(1, 8))
+         # url = "https://www.ikjzd.com/a/14331.html"
+         # resp = requests.get(url, headers=unicornHeader, timeout=30)
+         #
+         # sleep(randint(1, 8))
+         # url = "https://www.ikjzd.com/a/14327.html"
+         # resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         #0104
+
+         sleep(randint(1, 20))
+         url = "https://www.ikjzd.com/a/14456.html"
          resp = requests.get(url, headers=unicornHeader, timeout=30)
 
-         sleep(randint(1, 8))
-         url = "https://www.ikjzd.com/a/14327.html"
-         resp = requests.get(url, headers=unicornHeader, timeout=30)
 
 
