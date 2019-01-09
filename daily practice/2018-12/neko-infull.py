@@ -10,9 +10,10 @@ if __name__ == '__main__':
      }
      # 排名
      i = 1;
-     for i in range(1, 584):
+     for i in range(1, 284):
          print(i);
 
+<<<<<<< HEAD
          # sleep(randint(1, 10))
          # url = "https://www.ikjzd.com/a/14242.html"
          # resp = requests.get(url, headers=unicornHeader, timeout=30)
@@ -30,5 +31,36 @@ if __name__ == '__main__':
          resp = requests.get(url, headers=unicornHeader, timeout=30)
 
 
+=======
+
+         #0102
+         sleep(randint(1, 8))
+         url = "https://www.ikjzd.com/a/14242.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         sleep(randint(1, 30))
+         url = "https://www.ikjzd.com/a/14235.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         sleep(randint(1, 8))
+         url = "https://www.ikjzd.com/a/14224.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         #0103
+         sleep(randint(1, 8))
+         url = "https://www.ikjzd.com/a/14235.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+
+
+         #0103
+         sleep(randint(1, 8))
+         url = "https://www.ikjzd.com/a/14331.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         sleep(randint(1, 8))
+         url = "https://www.ikjzd.com/a/14327.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+>>>>>>> be1f6ac4bfce939607dde64dd8d000c4ffc03f11
 
 
