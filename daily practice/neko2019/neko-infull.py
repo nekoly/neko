@@ -10,7 +10,7 @@ if __name__ == '__main__':
      }
      # 排名
      i = 1;
-     for i in range(1, 384):
+     for i in range(1, 584):
          print(i);
 
          #0102
@@ -44,6 +44,12 @@ if __name__ == '__main__':
          sleep(randint(1, 20))
          url = "https://www.ikjzd.com/a/14456.html"
          resp = requests.get(url, headers=unicornHeader, timeout=30)
+
+         #0107
+         sleep(randint(1, 20))
+         url = "https://www.ikjzd.com/a/14594.html"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+
 
 
 

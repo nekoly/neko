@@ -22,15 +22,16 @@ if __name__ == '__main__':
          # url = "https://www.ikjzd.com/a/12262.html/"
          # resp = requests.get(url, headers=unicornHeader, timeout=30)
 
-
-         # url = "https://www.ikjzd.com/a/13931.html"
-         # resp = requests.get(url, headers=unicornHeader, timeout=30)
         
          sleep(randint(1, 5))
-        
-         url = "https://www.ikjzd.com/a/14728.html"
+
+         url = "https://www.ikjzd.com/index/ArticleApi/PViews?id=14728"
          resp = requests.get(url, headers=unicornHeader, timeout=30)
          print(resp.text)
+        
+         # url = "https://www.ikjzd.com/a/14728.html"
+         # resp = requests.get(url, headers=unicornHeader, timeout=30)
+         # print(resp.text)旧的
         
         # print(unicornHeader)
         # url = "https://www.ikjzd.com/index/Note/getComment/page/1"
