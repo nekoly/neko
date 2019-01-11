@@ -17,23 +17,19 @@ if __name__ == '__main__':
             "user-agent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36"
      }
       
-     for i in range(1, 11):
+     for i in range(1, 621):
          print(i);
-         # url = "https://www.ikjzd.com/a/12262.html/"
-         # resp = requests.get(url, headers=unicornHeader, timeout=30)
 
-         #0110
-         sleep(randint(1, 5))
-         url = "https://www.ikjzd.com/a/14906.html"
-         resp = requests.get(url, headers=unicornHeader, timeout=30)
-         print(resp.text)
-
-
-         #旧代码
-         # sleep(randint(1, 5))
-         # url = "https://www.ikjzd.com/a/14906.html"
+        
+         # sleep(randint(1, 3))
+         # url = "https://www.ikjzd.com/index/ArticleApi/PViews?id=14713"
          # resp = requests.get(url, headers=unicornHeader, timeout=30)
          # print(resp.text)
+
+         sleep(randint(1, 5))
+         url = "https://www.ikjzd.com/index/ArticleApi/PViews?id=14906"
+         resp = requests.get(url, headers=unicornHeader, timeout=30)
+         print(resp.text)
 
 
 
