@@ -13,7 +13,7 @@ if __name__ == '__main__':
      for i in range(1, 284):
          print(i);
 
-<<<<<<< HEAD
+
          # sleep(randint(1, 10))
          # url = "https://www.ikjzd.com/a/14242.html"
          # resp = requests.get(url, headers=unicornHeader, timeout=30)
@@ -31,7 +31,7 @@ if __name__ == '__main__':
          resp = requests.get(url, headers=unicornHeader, timeout=30)
 
 
-=======
+
 
          #0102
          sleep(randint(1, 8))
